@@ -1,0 +1,25 @@
+{
+  "name": "zolvit_bootcamp_day_7_nodejs",
+  "version": "1.0.0",
+  "description": "- Introduction to databases\r - SQL vs NoSQL overview\r - MongoDB basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MdFazilGITHUB/Zolvit_Bootcamp_Day_7_NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MdFazilGITHUB/Zolvit_Bootcamp_Day_7_NodeJS/issues"
+  },
+  "homepage": "https://github.com/MdFazilGITHUB/Zolvit_Bootcamp_Day_7_NodeJS#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "mongodb": "^6.16.0"
+  }
+}
